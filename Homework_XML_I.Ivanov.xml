@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<describing myself>
+<name>Ivaylo</name>
+<gender>Male</gender>
+<city>Sofia</city>
+<country>Bulgaria</country>
+<employed>false</employed>
+<house>false</house>
+<car>true</car>
+</describing myself>
+
+<?xml version="2.0" encoding="utf-8"?>
+<describing myself name="Ivaylo" gender="M">
+<city>Sofia</city>
+<country>Bulgaria</country>
+<cityzenship>Bulgaria</citizenship>
+<employed>False</employed>
+</describing myself>
+
+<?xml version="3.0" encoding="utf-8"?>
+<describing myself name="Ivaylo" gender="M" city="Sofia" country="Bulgaria">
+<merital status>Single</merital status>
+<employed>False</employed>
+</describing myself>

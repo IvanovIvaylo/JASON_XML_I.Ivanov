@@ -1,0 +1,17 @@
+{"describing myself":[
+	{"name":"Ivaylo"},
+		    {"gender":"M"},
+				{"city":"Sofia"},
+					{"country":"Bulgaria"},
+						{"employed":"false"}
+						]
+}
+
+
+
+{"describing myself":[
+	{"name":"Ivaylo", "gender":"M", "city":"Sofia", "country":"Bulgaria"},
+		{"employed":"false"}
+		]
+}
+
